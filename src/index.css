@@ -1,0 +1,18 @@
+code {
+  display: block;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  color: #444;
+}
+h3{
+  border-bottom: 1px black solid;
+}
+
+.code{
+  padding:.5rem;
+}
+
