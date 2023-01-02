@@ -2,6 +2,13 @@ code {
   display: block;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: blue;
+}
 h1{
   text-align: center;
 }
