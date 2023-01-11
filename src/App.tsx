@@ -21,7 +21,6 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/JavaScript' element={<JavaScript />} />
         <Route path='/ArrayMethods' element={<ArrayMethods />} />
-        <Route path='/ReactRouterDom' element={<ReactRouterDom />} />
       </Routes>
     </BrowserRouter>
     
