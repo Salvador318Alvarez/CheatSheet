@@ -21,5 +21,8 @@ h3{
 
 .code{
   padding:.5rem;
+  border: 2px dotted gray;
+  padding: 1%;
+  margin: 1%;
 }
 
