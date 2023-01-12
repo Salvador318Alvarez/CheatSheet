@@ -3,7 +3,6 @@ import { BrowserRouter, Link, Route, Routes } from "react-router-dom"
 import Home from "./Home"
 import ArrayMethods from "./JavaScript/ArrayMethods"
 import JavaScript from "./JavaScript/JavaScript"
-import ReactRouterDom from "./React/ReactRouterDom"
 
 function App() {
   return (
